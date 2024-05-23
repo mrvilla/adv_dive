@@ -1,6 +1,6 @@
 # adv_dive
 
-A new Flutter project.
+A new Flutter project, Quiz app
 
 ## Getting Started
 
